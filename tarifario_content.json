@@ -1,0 +1,257 @@
+[
+  {
+    "__EMPTY": "Serviço",
+    "Adulto": "Sgl",
+    "Adulto_1": "Dbl",
+    "Adulto_2": "Adc",
+    "Criança": "Sgl",
+    "Criança_1": "Dbl",
+    "Criança_2": "Adc",
+    "Infantil": "Sgl",
+    "Infantil_1": "Dbl",
+    "Infantil_2": "Adc"
+  },
+  {
+    "__EMPTY": "Hospedagem",
+    "Codigo": "agencies/1/services[15]"
+  },
+  {
+    "__EMPTY": "   Hotel Nacional",
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]"
+  },
+  {
+    "__EMPTY": "      Pensão",
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[21]"
+  },
+  {
+    "__EMPTY": "         Café da Manhã",
+    "Adulto": 67.64,
+    "Adulto_1": 67.64,
+    "Adulto_2": 39.46,
+    "Criança_2": 0,
+    "Infantil_2": 0,
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[21]|agencies/1/services[1]"
+  },
+  {
+    "__EMPTY": "         Café e Almoço",
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[21]|agencies/1/services[32]"
+  },
+  {
+    "__EMPTY": "            Almoço",
+    "Adulto": 135.28,
+    "Adulto_1": 135.28,
+    "Adulto_2": 78.91,
+    "Criança_2": 0,
+    "Infantil_2": 0,
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[21]|agencies/1/services[32]|agencies/1/services[3]"
+  },
+  {
+    "__EMPTY": "            Café da Manhã",
+    "Adulto": 67.64,
+    "Adulto_1": 67.64,
+    "Adulto_2": 39.46,
+    "Criança_2": 0,
+    "Infantil_2": 0,
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[21]|agencies/1/services[32]|agencies/1/services[1]"
+  },
+  {
+    "__EMPTY": "         Café e Jantar",
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[21]|agencies/1/services[2]"
+  },
+  {
+    "__EMPTY": "            Café da Manhã",
+    "Adulto": 67.64,
+    "Adulto_1": 67.64,
+    "Adulto_2": 39.46,
+    "Criança_2": 0,
+    "Infantil_2": 0,
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[21]|agencies/1/services[2]|agencies/1/services[1]"
+  },
+  {
+    "__EMPTY": "            Jantar",
+    "Adulto": 135.28,
+    "Adulto_1": 135.28,
+    "Adulto_2": 78.91,
+    "Criança_2": 0,
+    "Infantil_2": 0,
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[21]|agencies/1/services[2]|agencies/1/services[17]"
+  },
+  {
+    "__EMPTY": "         Pensão Completa",
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[21]|agencies/1/services[22]"
+  },
+  {
+    "__EMPTY": "            Almoço",
+    "Adulto": 135.28,
+    "Adulto_1": 135.28,
+    "Adulto_2": 78.91,
+    "Criança_2": 0,
+    "Infantil_2": 0,
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[21]|agencies/1/services[22]|agencies/1/services[3]"
+  },
+  {
+    "__EMPTY": "            Café da Manhã",
+    "Adulto": 67.64,
+    "Adulto_1": 67.64,
+    "Adulto_2": 39.46,
+    "Criança_2": 0,
+    "Infantil_2": 0,
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[21]|agencies/1/services[22]|agencies/1/services[1]"
+  },
+  {
+    "__EMPTY": "            Jantar",
+    "Adulto": 135.28,
+    "Adulto_1": 135.28,
+    "Adulto_2": 78.91,
+    "Criança_2": 0,
+    "Infantil_2": 0,
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[21]|agencies/1/services[22]|agencies/1/services[17]"
+  },
+  {
+    "__EMPTY": "         Sem Pensão",
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[21]|agencies/1/services[23]"
+  },
+  {
+    "__EMPTY": "      Luxo Acessibilidade",
+    "Adulto": 1000,
+    "Adulto_1": 1000,
+    "Adulto_2": 300,
+    "Criança": 255,
+    "Criança_1": 510,
+    "Criança_2": 255,
+    "Infantil": 0,
+    "Infantil_1": 0,
+    "Infantil_2": 0,
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[18]"
+  },
+  {
+    "__EMPTY": "      Luxo Casal",
+    "Adulto": 1000,
+    "Adulto_1": 1000,
+    "Adulto_2": 300,
+    "Criança": 255,
+    "Criança_1": 510,
+    "Criança_2": 255,
+    "Infantil": 0,
+    "Infantil_1": 0,
+    "Infantil_2": 0,
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[20]"
+  },
+  {
+    "__EMPTY": "      Luxo Mar",
+    "Adulto": 1188,
+    "Adulto_1": 1188,
+    "Adulto_2": 303,
+    "Criança": 335,
+    "Criança_1": 670,
+    "Criança_2": 335,
+    "Infantil": 0,
+    "Infantil_1": 0,
+    "Infantil_2": 0,
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[19]"
+  },
+  {
+    "__EMPTY": "      Luxo Twin",
+    "Adulto": 1000,
+    "Adulto_1": 1000,
+    "Adulto_2": 300,
+    "Criança": 255,
+    "Criança_1": 510,
+    "Criança_2": 255,
+    "Infantil": 0,
+    "Infantil_1": 0,
+    "Infantil_2": 0,
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[31]"
+  },
+  {
+    "__EMPTY": "      Luxo com Banheira",
+    "Adulto": 1139,
+    "Adulto_1": 1139,
+    "Adulto_2": 341.7,
+    "Criança": 291,
+    "Criança_1": 582,
+    "Criança_2": 291,
+    "Infantil": 0,
+    "Infantil_1": 0,
+    "Infantil_2": 0,
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[26]"
+  },
+  {
+    "__EMPTY": "      Suíte Nacional",
+    "Adulto": 2409,
+    "Adulto_1": 2409,
+    "Adulto_2": 722.7,
+    "Criança": 0,
+    "Criança_1": 0,
+    "Criança_2": 291,
+    "Infantil": 0,
+    "Infantil_1": 0,
+    "Infantil_2": 291,
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[25]"
+  },
+  {
+    "__EMPTY": "      Suíte Sereia",
+    "Adulto": 1815,
+    "Adulto_1": 1815,
+    "Adulto_2": 544.5,
+    "Criança": 0,
+    "Criança_1": 0,
+    "Criança_2": 291,
+    "Infantil": 0,
+    "Infantil_1": 0,
+    "Infantil_2": 291,
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[24]"
+  },
+  {
+    "__EMPTY": "      CARYBÉ - 559,00",
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[40]"
+  },
+  {
+    "__EMPTY": "      CARYBÉ - 589,00",
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[41]"
+  },
+  {
+    "__EMPTY": "      DIA DA NOIVA & NOITE DE NÚPCIAS - 3200,00",
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[45]"
+  },
+  {
+    "__EMPTY": "      DIA DA NOIVA - 1600,00",
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[35]"
+  },
+  {
+    "__EMPTY": "      DIA DA NOIVA - 1799,00",
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[37]"
+  },
+  {
+    "__EMPTY": "      DIA DO NOIVO - 1100,00",
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[44]"
+  },
+  {
+    "__EMPTY": "      FEIJOADA HN",
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[33]"
+  },
+  {
+    "__EMPTY": "      NOITE DE NÚPCIAS  - 1400,00",
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[36]"
+  },
+  {
+    "__EMPTY": "      NOITE DE NÚPCIAS  - 1799,00",
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[34]"
+  },
+  {
+    "__EMPTY": "      Pacote Aniversário - 700,00",
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[38]"
+  },
+  {
+    "__EMPTY": "      Pacote Romance - 1200,00",
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[39]"
+  },
+  {
+    "__EMPTY": "      Pacote dia de Princesa - 1.521,45",
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[42]"
+  },
+  {
+    "__EMPTY": "      SEREIA - 459,00",
+    "Codigo": "agencies/1/services[15]|agencies/1/services[16]|agencies/1/services[43]"
+  }
+]

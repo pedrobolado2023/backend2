@@ -1,0 +1,19 @@
+# compiled output
+/dist
+/node_modules
+
+# logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+
+# env files
+.env
+
+# git stuff
+/.git
+/deploy

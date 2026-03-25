@@ -1,0 +1,21 @@
+INIT NESTJS...
+[32m[Nest] 21340  - [39m24/03/2026, 21:05:19 [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 21340  - [39m24/03/2026, 21:05:19 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +42ms[39m
+[32m[Nest] 21340  - [39m24/03/2026, 21:05:19 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +83ms[39m
+[32m[Nest] 21340  - [39m24/03/2026, 21:05:19 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +5ms[39m
+[32m[Nest] 21340  - [39m24/03/2026, 21:05:19 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mSupabaseModule dependencies initialized[39m[38;5;3m +8ms[39m
+[32m[Nest] 21340  - [39m24/03/2026, 21:05:19 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAuthModule dependencies initialized[39m[38;5;3m +4ms[39m
+[32m[Nest] 21340  - [39m24/03/2026, 21:05:19 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mBookingModule dependencies initialized[39m[38;5;3m +3ms[39m
+[32m[Nest] 21340  - [39m24/03/2026, 21:05:19 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAppController {/}:[39m[38;5;3m +25ms[39m
+[32m[Nest] 21340  - [39m24/03/2026, 21:05:19 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/, GET} route[39m[38;5;3m +11ms[39m
+[32m[Nest] 21340  - [39m24/03/2026, 21:05:20 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAuthController {/auth}:[39m[38;5;3m +420ms[39m
+[32m[Nest] 21340  - [39m24/03/2026, 21:05:20 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/login, POST} route[39m[38;5;3m +47ms[39m
+[32m[Nest] 21340  - [39m24/03/2026, 21:05:20 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mBookingController {/booking}:[39m[38;5;3m +6ms[39m
+[32m[Nest] 21340  - [39m24/03/2026, 21:05:20 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/booking/import-tariffs, POST} route[39m[38;5;3m +4ms[39m
+[32m[Nest] 21340  - [39m24/03/2026, 21:05:20 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/booking/hotels, GET} route[39m[38;5;3m +5ms[39m
+[32m[Nest] 21340  - [39m24/03/2026, 21:05:20 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/booking/search, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 21340  - [39m24/03/2026, 21:05:20 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/booking/reserve, POST} route[39m[38;5;3m +4ms[39m
+[32m[Nest] 21340  - [39m24/03/2026, 21:05:20 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/booking/reservations, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 21340  - [39m24/03/2026, 21:05:20 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/booking/allotments, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 21340  - [39m24/03/2026, 21:05:20 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/booking/allotments/:id, POST} route[39m[38;5;3m +2ms[39m
+[32m[Nest] 21340  - [39m24/03/2026, 21:05:20 [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +7ms[39m

@@ -1,0 +1,12 @@
+console.log("Testing imports");
+console.log("1. Nest/core...");
+require('@nestjs/core');
+console.log("2. ConfigModule...");
+require('@nestjs/config');
+console.log("3. AuthModule...");
+require('./dist/auth/auth.module.js');
+console.log("4. SupabaseModule...");
+require('./dist/supabase/supabase.module.js');
+console.log("5. BookingModule...");
+require('./dist/booking/booking.module.js');
+console.log("ALL IMPORTS DONE!");
